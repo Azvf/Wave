@@ -8,7 +8,7 @@
 
 **工作流**:
 1. **Analyze**: 运行 `flutter analyze` 和 `flutter test`
-2. **Build**: 多平台构建（Windows、macOS、Linux）
+2. **Build**: 多平台构建（Windows、macOS）
 
 **关键步骤**:
 - 安装 Flutter SDK
@@ -22,7 +22,6 @@
 
 **Windows**: `.exe` 可执行文件
 **macOS**: `.dmg` 安装包或 `.app` 应用
-**Linux**: `.AppImage` 或 `.deb` 包
 
 **MVP 阶段**: 可暂缓自动签名，优先保证构建产物可测试。
 
